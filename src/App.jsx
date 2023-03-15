@@ -6,8 +6,6 @@ import useGetQuote from './Hooks/useGetQuote'
 import './App.css'
 
 
-//API Key:
-//N8JE7xM/wBCaEWXcKzOt6Q==OLqbL8f3AnVhHPB5
 
 function App() {
   const [isToggled, setisToggled] = useState(false)
